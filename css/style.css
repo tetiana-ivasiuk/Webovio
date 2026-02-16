@@ -305,7 +305,7 @@ li{
 }
 
 .footer{
-    background-image: url(/images/bg-footer.jpg);
+    background-image: url(../images/bg-footer.jpg);
     padding-top: 310px;
     padding-bottom: 30px;
     margin-top: -120px;
